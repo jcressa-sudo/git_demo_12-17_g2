@@ -122,17 +122,17 @@
               "$": [
                 "ts",
                 0,
-                1760559203191
+                1765997500297
               ],
-              "$ts": 1760559202150
+              "$ts": 1765997499273
             },
             "rangeStartDate": {
               "$": [
                 "ts",
                 0,
-                1760559203191
+                1765997500297
               ],
-              "$ts": 1760558903150
+              "$ts": 1765997200273
             },
             "unitOfTime": 5,
             "visibility": {
@@ -152,8 +152,8 @@
             {
               "axis": "",
               "data": {
-                "aggregateMode": "default",
-                "source": "histprov:WrongHistorian:/sys:FlatFileTraining:/prov:default:/tag:Pumps/Pump1"
+                "aggregateMode": "LastValue",
+                "source": "histprov:CoreHistorian:/sys:flatfiletraining:/prov:default:/tag:pumps/pump1"
               },
               "display": {
                 "breakLine": true,
@@ -221,7 +221,7 @@
               "axis": "",
               "data": {
                 "aggregateMode": "default",
-                "source": "histprov:WrongHistorian:/sys:FlatFileTraining:/prov:default:/tag:Pumps/Pump2"
+                "source": "histprov:CoreHistorian:/sys:flatfiletraining:/prov:default:/tag:Pumps/Pump2"
               },
               "display": {
                 "breakLine": true,
@@ -289,7 +289,7 @@
               "axis": "",
               "data": {
                 "aggregateMode": "default",
-                "source": "histprov:WrongHistorian:/sys:FlatFileTraining:/prov:default:/tag:Pumps/Pump3"
+                "source": "histprov:CoreHistorian:/sys:flatfiletraining:/prov:default:/tag:Pumps/Pump3"
               },
               "display": {
                 "breakLine": true,
@@ -357,7 +357,7 @@
               "axis": "",
               "data": {
                 "aggregateMode": "default",
-                "source": "histprov:WrongHistorian:/sys:FlatFileTraining:/prov:default:/tag:Pumps/Pump4"
+                "source": "histprov:CoreHistorian:/sys:flatfiletraining:/prov:default:/tag:Pumps/Pump4"
               },
               "display": {
                 "breakLine": true,
@@ -425,7 +425,7 @@
               "axis": "",
               "data": {
                 "aggregateMode": "default",
-                "source": "histprov:WrongHistorian:/sys:FlatFileTraining:/prov:default:/tag:Pumps/Pump5"
+                "source": "histprov:CoreHistorian:/sys:flatfiletraining:/prov:default:/tag:Pumps/Pump5"
               },
               "display": {
                 "breakLine": true,
@@ -493,7 +493,7 @@
               "axis": "",
               "data": {
                 "aggregateMode": "default",
-                "source": "histprov:WrongHistorian:/sys:FlatFileTraining:/prov:default:/tag:Pumps/Pump6"
+                "source": "histprov:CoreHistorian:/sys:flatfiletraining:/prov:default:/tag:Pumps/Pump6"
               },
               "display": {
                 "breakLine": true,
