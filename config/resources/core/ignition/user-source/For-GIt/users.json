@@ -1,0 +1,37 @@
+{
+  "users": [
+    {
+      "uuid": "a50f74de-6e46-4b61-b42e-721e2dad2b23",
+      "username": "Adam",
+      "firstName": "Adam",
+      "lastName": "Adam",
+      "schedule": "Always",
+      "description": "",
+      "password": "[3A1C9186]51e72e2d9d2ff0c68339531560dc5668129f054fa801faa6935f746ef9246518",
+      "passwordDate": "20251217.104405932-0800",
+      "passwordHistory": [],
+      "badge": "",
+      "createdDate": "20251217.104405932-0800",
+      "lastModifiedDate": "20251217.104443495-0800",
+      "roles": [
+        "8465c883-0094-410e-aa19-93d05bc602e5"
+      ],
+      "extraProps": [
+        {
+          "propertyKey": "user.pin",
+          "propertyValue": ""
+        }
+      ],
+      "scheduleAdjustments": [],
+      "contactInfos": []
+    }
+  ],
+  "roles": [
+    {
+      "uuid": "8465c883-0094-410e-aa19-93d05bc602e5",
+      "rolename": "Manager",
+      "createdDate": "20251217.104426606-0800",
+      "lastModifiedDate": "20251217.104443464-0800"
+    }
+  ]
+}
